@@ -2,4 +2,6 @@
 
 > Status do projeto: Em desenvolvimento
 
-> Esse projeto foi feito em aula, utilizando apenas html e css
+A barbearia Alura é um  teste de um web site para uma barbearia convencional, onde os clientes/usuários podem ver os serviços e produtos ofertados , localização  e também conhecer um pouco mais sobre a empresa e quais seus benefícios. 
+ 
+ 
