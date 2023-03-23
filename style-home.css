@@ -1,0 +1,64 @@
+@charset "UFT-8";
+
+
+.titulo-principal{
+    margin: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+#foto-banner{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+    padding: 30px;
+}
+
+.texto-centralizado{
+    text-align: center; 
+}
+p{
+    text-align: center; 
+}
+
+
+em strong{
+    color: red;
+    font-style: italic;
+
+}
+
+.texto-centralizado{
+    padding:20px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.itens{
+    font-style: italic;
+    margin-top: 5px;
+}
+
+
+.texto{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    
+}
+.imagembeneficios{
+    width: 50%;
+}
+
+footer{
+    margin-top: 40px;
+    background: url(bg.jpg);
+    text-align: center;
+    padding: 20px 0;
+    color: #FFFFFF;
+    
+}
+
